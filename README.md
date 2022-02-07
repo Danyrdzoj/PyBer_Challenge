@@ -13,9 +13,15 @@ We can see from this dataframe that urban cities have the most rides and drivers
 The summary data frame shows  total travel, total drivers, total fares, average fares per trip, and average fares per driver for each city type. The data includes 66 cities, 36 suburbs, and 18 local cities. The total number of trips for each city type is in line with our expectations. The total of 1,625 trips in urban areas is the highest, and the total of 125 trips in provincial cities is the lowest. The total number of drivers and  total fares for each city type also follows this pattern.  
  Rural cities have the highest average prices per trip ($ 34.62) and urban cities have the lowest ($ 24.53). The average fare per driver is also highest in rural towns ($ 55.49) and lowest in urban towns ($ 16.57).
  
+ ![Image](PyBer_Summary.png?raw=true)
+
+ 
 As part of the analysis, the following multiple line chart was created to help us visualize and analyze the Total Fares from January 1st, 2019 to April 29th, 2019 for each city type.
 In this  period of analysis of the  total fares for each city type, it is easy to see that the total fares for city types are the highest in all weeks and the lowest in rural areas. You can also see that the third week of February is the highest total fare of any city type that is in increasing demand at that time. Urban areas also seem to generate a lot of sales in the first and third weeks of March. From early January to the end of April 2019, all city-type rates will be reduced.
 The "Toal Fares by City Type" graph shows the differences in weekly total fares from January to April. Urban cities have the highest total fares ranging from $1,661.68 to $2,470.93 as shown by the yellow line. The red line shows that the total fares in suburban cities which ranges from $721.60 to $1,412.74 on a weekly basis. The lowest total fares is depicted by the blue line for rural cities and ranges from $67.65 to $501.24. In late February, the total fares in all types of cities seem to be at their highest. The relationship between total fares and date is depicted in the graph below:
+
+![Image](PyBerChart.png?raw=true)
+
 
 
 ## Summary
