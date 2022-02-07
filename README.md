@@ -6,6 +6,7 @@ PyBer Challenge Module 5
 The project's goal was to analyze data for a ridesharing company called PyBer in order to calculate metrics related to total weekly fares for each city type in which the rideshare company operates. For each city type, datasets containing ride and city data were used to calculate metrics such as total rides, total drivers, total fares, average fare per ride and driver. The data sets were also used to generate a new data frame that calculated the average weekly fare for each city type from January 1st, 2019 to April 29th, 2019.The analysis dataframe was used to generate a multiple-line graph that depicted the total weekly fares for each city type over the specified time period. The metrics and visualization were then analyzed to provide recommendations to Pyber's CEO to address any disparities between city types.
 
 ##Results
+
 To observe and analyze some disparities in city types, the following key metrics were calculated and a dataframe was created.
 We can see from this dataframe that urban cities have the most rides and drivers, while rural cities have the fewest. As a result, as shown in the Total Fares column, the city type Urban generates the most revenue, while rural cities generate the least. However, when we look at the Average Fare per Ride column of this dataframe, we can see that Rural city types have the highest average fare per ride, which means that there is a higher chance of revenue in this city type for every ride increase compared to Urban city types, which have the lowest average fare per ride.
 
@@ -18,6 +19,7 @@ The "Toal Fares by City Type" graph shows the differences in weekly total fares 
 
 
 ##Summary
+
 Here are some recommendations for dealing with inequality between city types to analyze the results after calculating different metrics for each  city type. 
  Urban areas have the highest total fares and the most travel, so they make up the majority of the company's revenue. As a result, this is the highest performing city type and we will need to invest more  in this type in order to bring significant profits to PyBer in the future. 
  Local cities occupy the lowest travel and lowest fares of all types, but the  average fare per trip is the highest in this city type, so increasing passenger numbers in this city type can increase revenue slightly. There is sex. Despite having the fewest drivers, the average fare per driver is the highest in this type of city. Therefore, if you can increase passenger numbers through investment in marketing and other means, it may be easy to find a driver for that particular city type. 
